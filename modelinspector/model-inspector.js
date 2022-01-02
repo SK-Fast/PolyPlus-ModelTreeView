@@ -17,6 +17,8 @@ const IconsData = {
   Sound: "TreeViewIcons/Sound.png",
   Text3D: "TreeViewIcons/Text3D.png",
   Truss: "TreeViewIcons/Truss.png",
+  Decal: "TreeViewIcons/Decal.png",
+  Tool: "TreeViewIcons/Tool.png",
 };
 
 function ReadVector(elu) {
